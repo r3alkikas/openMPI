@@ -10,3 +10,5 @@
       mpirun -machinefile maquinas -np 10 -v prog
       or
       mpiexec -machinefile maquinas -np 10 -v prog
+   
+   https://github.com/r3alkikas/openMPI
