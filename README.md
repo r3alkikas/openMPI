@@ -1,5 +1,5 @@
-# openMPI
-openMPI samples to run in Rocks Cluster 7.0 Manzanita
+# OpenMPI
+OpenMPI samples to run in Rocks Cluster 7.0 Manzanita
 
 * COMPILE 
           - mpic++ prog.cpp -o prog 
